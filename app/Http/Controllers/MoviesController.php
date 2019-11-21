@@ -15,7 +15,7 @@ class MoviesController extends Controller
       $response = $client->request('GET', 'http://www.omdbapi.com/?apikey=27f1cf09&t=widows&y=2018');
       $dataJson = $response->getBody()->getContents();
       $movie = json_decode($dataJson);
-      // dd($dataJson, $movie);
+      //dd($dataJson, $movie);
       return view('movies', compact('movie'));
     }
 

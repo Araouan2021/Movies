@@ -1,41 +1,15 @@
 <!DOCTYPE html>
-"Title": "Widows",
-"Year": "2018",
-"Rated": "R",
-"Released": "16 Nov 2018",
-"Runtime": "129 min",
-"Genre": "Crime, Drama, Thriller",
-"Director": "Steve McQueen",
-"Writer": "Gillian Flynn (screenplay by), Steve McQueen (screenplay by), Lynda La Plante (based on \"Widows\" by)",
-"Actors": "Viola Davis, Liam Neeson, Jon Bernthal, Manuel Garcia-Rulfo",
-"Plot": "Set in contemporary Chicago, amid a time of turmoil, four women with nothing in common except a debt left behind by their dead husbands' criminal activities, take fate into their own hands, and conspire to forge a future on their own terms.",
-"Language": "English, Spanish, Polish",
-"Country": "UK, USA",
-"Awards": "N/A",
-"Poster": "https://m.media-amazon.com/images/M/MV5BMjM3ODc5NDEyOF5BMl5BanBnXkFtZTgwMTI4MDcxNjM@._V1_SX300.jpg",
-"Ratings": [
-{
-"Source": "Internet Movie Database",
-"Value": "6.9/10"
-},
-{
-"Source": "Rotten Tomatoes",
-"Value": "91%"
-},
-{
-"Source": "Metacritic",
-"Value": "84/100"
-}
-],
-"Metascore": "84",
-"imdbRating": "6.9",
-"imdbVotes": "71,125",
-"imdbID": "tt4218572",
-"Type": "movie",
-"DVD": "05 Feb 2019",
-"BoxOffice": "N/A",
-"Production": "20th Century Fox",
-"Website": "N/A",
-"Response": "True"
-}
+<h1>Movies</h1>
+<h2>Widows</h2>
+<p>{{$movie->Title}} was released {{$movie->Year}} on November 16, 2018 and it is rated R.  It's 129 mins. long.  Widows is a crime, drama and thriller.
+The director is Steve McQueen.  Gillian Flynn and Steve McQueen wrote the screenplay.  The movie is based on Lynda La Plante's book 'Widows'.</p>
+<h3>Actors</h3>
+<p>The actors are Viola Davis, Liam Neeson, Jon Bernthal and Manuel Garcia-Rulfo.
+<h4>Plot</h4>
+<p>The plot is set in contemporary Chicago amid a time of turmoil.  Fout women with nothing in common except a debt left behind by their dead husbands' criminal activities, take fate into their own hands, and conspire to forge a future on their own terms.  The movie is in English and has been translated into Spanish, Polish.  The movie has been released in the UK and the USA.  Information about awards aren't available.</p>
+<h4>Poster</h4>
+<p>The poster can be seen at "https://m.media-amazon.com/images/M/MV5BMjM3ODc5NDEyOF5BMl5BanBnXkFtZTgwMTI4MDcxNjM@._V1_SX300.jpg".</p>
+<h5>Ratings</h5>
+<p>The internet movie database has rated Widows 6.9/10 and Rotten Tomatoes has rated Widows 91%.  Metatcritic has rated Widows 84/100. Imd votes are 71,125.  The movie was released on DVD on February 5, 2019.  Box office information is not available.  The movie was produced by 20th Century Fox.  There is no website for the movie.
 <html>
+
